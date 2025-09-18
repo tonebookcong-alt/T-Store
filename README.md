@@ -1,1 +1,1 @@
-
+assets/screen/detail.png
