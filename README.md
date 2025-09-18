@@ -1,2 +1,7 @@
-![Tên ảnh](assets/screen/detail.png) | ![Tên ảnh](assets/screen/login.png) | ![Tên ảnh](assets/screen/home.png)
-
+<p align="center">
+  <img src="assets/screen/detail.png" alt="Detail screen" width="30%">
+  &nbsp;&nbsp;
+  <img src="assets/screen/login.png" alt="Login screen" width="30%">
+  &nbsp;&nbsp;
+  <img src="assets/screen/home.png" alt="Home screen" width="30%">
+</p>
