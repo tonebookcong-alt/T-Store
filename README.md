@@ -1,1 +1,1 @@
-assets/screen/detail.png
+![Tên ảnh](assets/screen/detail.png)
